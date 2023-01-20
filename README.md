@@ -18,7 +18,7 @@ export {VITE_Open_AI_Key}
 
 To run the application 
 ```
-npm i
+npm install
 npm run dev
 ```
 
