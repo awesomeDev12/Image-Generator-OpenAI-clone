@@ -5,7 +5,7 @@ Uses Open Ai api keys to obtain images
 To use this application,
 clone this repository using
 ```
-git clone URL
+git clone https://github.com/awesomeDev12/Image-Generator-OpenAI-clone.git
 ```
 
 Create a **myapikey.jsx** file inside the **src** directory
